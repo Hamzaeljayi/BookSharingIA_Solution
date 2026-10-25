@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "LibraryDB": "Server=.\\SQLEXPRESS;Database=LibraryDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  },
+  "AdminPassword": "Mouradprotect17"
+}
